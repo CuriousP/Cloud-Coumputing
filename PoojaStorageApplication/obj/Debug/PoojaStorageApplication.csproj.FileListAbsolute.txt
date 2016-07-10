@@ -55,3 +55,6 @@ c:\users\pooja\documents\visual studio 2015\Projects\PoojaStorageApplication\Poo
 c:\users\pooja\documents\visual studio 2015\Projects\PoojaStorageApplication\PoojaStorageApplication\obj\Debug\PoojaStorageApplication.csprojResolveAssemblyReference.cache
 c:\users\pooja\documents\visual studio 2015\Projects\PoojaStorageApplication\PoojaStorageApplication\obj\Debug\PoojaStorageApplication.exe
 c:\users\pooja\documents\visual studio 2015\Projects\PoojaStorageApplication\PoojaStorageApplication\obj\Debug\PoojaStorageApplication.pdb
+C:\Users\Pooja\Documents\GitHub\Cloud-Coumputing\PoojaStorageApplication\bin\Debug\PoojaStorageApplication.exe.config
+C:\Users\Pooja\Documents\GitHub\Cloud-Coumputing\PoojaStorageApplication\obj\Debug\PoojaStorageApplication.exe
+C:\Users\Pooja\Documents\GitHub\Cloud-Coumputing\PoojaStorageApplication\obj\Debug\PoojaStorageApplication.pdb

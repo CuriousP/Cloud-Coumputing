@@ -11,7 +11,7 @@
             Console.WriteLine("Enter your name and address: ");
             string userData = Console.ReadLine();
 
-            string storageConnectionString = "DefaultEndpointsProtocol=https;AccountName=poojaucscstorage;AccountKey=t6df4Fdbe9yQC1bVARa9fM66LxlU2LguJDj0ZUKmBTEAK9EasC0CTsuzZOAmly/wsX+VYrLSpV4rN7O2xwU0yg==;BlobEndpoint=https://poojaucscstorage.blob.core.windows.net/;TableEndpoint=https://poojaucscstorage.table.core.windows.net/;QueueEndpoint=https://poojaucscstorage.queue.core.windows.net/;FileEndpoint=https://poojaucscstorage.file.core.windows.net/";
+            string storageConnectionString = "DefaultEndpointsProtocol=https;AccountName;Endpoint=https://storage.blob.core.windows.net/;TableEndpoint=https://storage.table.core.windows.net/;QueueEndpoint=https://storage.queue.core.windows.net/;FileEndpoint=https://storage.file.core.windows.net/";
 
             CloudStorageAccount storageAccount = CloudStorageAccount.Parse(storageConnectionString);
             CloudBlobClient blobClient = storageAccount.CreateCloudBlobClient();
